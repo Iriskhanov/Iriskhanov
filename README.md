@@ -1,10 +1,10 @@
-<div id="header" align="center">
+<iframe src="https://giphy.com/embed/2Eh9l5e0QH41sg0bbL" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/bombaysoftwares-trip-astronaut-space-travel-2Eh9l5e0QH41sg0bbL">via GIPHY</a></p>
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-
 <iframe src="https://giphy.com/embed/2Eh9l5e0QH41sg0bbL" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/bombaysoftwares-trip-astronaut-space-travel-2Eh9l5e0QH41sg0bbL">via GIPHY</a></p>
-
+  <iframe src="https://giphy.com/embed/2Eh9l5e0QH41sg0bbL" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/bombaysoftwares-trip-astronaut-space-travel-2Eh9l5e0QH41sg0bbL">via GIPHY</a></p>
+</div>
 
 
 
